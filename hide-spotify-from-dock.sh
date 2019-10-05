@@ -1,1 +1,1 @@
-defaults write /Applications/Spotify.app/Contents/Info.plist LSUIElement true
+defaults write /Applications/Spotify.app/Contents/Info.plist NSUIElement true
